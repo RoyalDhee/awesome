@@ -16,5 +16,21 @@ body{
     height: 6rem;
     max-width: 1500px;
     text-align: center;
+    padding: 20px;
 
+}
+
+.col-3{
+    margin: 0px 4rem;
+}
+
+
+.nav-items li a {
+    text-decoration: none;
+    /* color: #ffe4c4; */
+
+}
+
+ul li {
+    list-style: none;
 }
