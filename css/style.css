@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #000000;
+}
+
+#header-container{
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    height: 6rem;
+    max-width: 1500px;
+    text-align: center;
+
+}
