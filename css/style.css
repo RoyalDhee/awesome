@@ -9,6 +9,11 @@ body{
     background: #000000;
 }
 
+.btn-green{
+    background: #6dc77a;
+    color: #fff;
+}
+
 #header-container{
     display: flex;
     justify-content: space-between;
@@ -17,20 +22,36 @@ body{
     max-width: 1500px;
     text-align: center;
     padding: 20px;
+    width: 80%;
+    margin: auto;
+}
 
+.col-3 img {
+    margin-top: 15px;
 }
 
 .col-3{
     margin: 0px 4rem;
 }
 
+.nav-items{
+    display: flex;
+}
 
 .nav-items li a {
     text-decoration: none;
-    /* color: #ffe4c4; */
-
+    color: #ffe4c4;
+    margin: 10px;
 }
 
 ul li {
+    display: flex;
     list-style: none;
+}
+
+.col-3 .btn-green{
+    text-decoration: none;
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 30px;
 }
