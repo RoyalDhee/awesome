@@ -13,35 +13,35 @@ body{
     background: #6dc77a;
     color: #fff;
 }
+header{
+    background: #ffffff;
+    height: 80px;
+}
 
 #header-container{
     display: flex;
-    justify-content: space-between;
-    background: #fff;
-    height: 6rem;
-    max-width: 1500px;
+    justify-content: space-evenly;
     text-align: center;
-    padding: 20px;
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 
-.col-3 img {
-    margin-top: 15px;
-}
+
 
 .col-3{
-    margin: 0px 4rem;
+    width: 33%;
 }
 
 .nav-items{
     display: flex;
+    margin-top: 32px;
 }
 
 .nav-items li a {
     text-decoration: none;
-    color: #ffe4c4;
-    margin: 10px;
+    color: #8e8e8e;
+    margin-top: 15px;
+    padding-right: 40px;
 }
 
 ul li {
@@ -50,8 +50,12 @@ ul li {
 }
 
 .col-3 .btn-green{
+    display: inline-block;
     text-decoration: none;
-    margin-top: 20px;
-    padding: 15px;
+    margin-top: 28px;
+    padding: 10px 26px;
     border-radius: 30px;
+    font-size: 17px;
+    /* float: right; */
+    margin-top: 20px;
 }
