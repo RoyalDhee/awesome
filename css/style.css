@@ -13,6 +13,10 @@ body{
     background: #6dc77a;
     color: #fff;
 }
+
+.btn-green:hover {
+    background: #6dc85a;
+}
 header{
     background: #ffffff;
     height: 80px;
@@ -26,7 +30,10 @@ header{
     margin: auto;
 }
 
-
+.logo{
+    display: inline-block;
+    margin-top: 30px;
+}
 
 .col-3{
     width: 33%;
@@ -34,7 +41,7 @@ header{
 
 .nav-items{
     display: flex;
-    margin-top: 32px;
+    margin-top: 20px;
 }
 
 .nav-items li a {
