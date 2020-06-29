@@ -66,3 +66,28 @@ ul li {
     /* float: right; */
     margin-top: 20px;
 }
+
+.main-container{
+    background: url(../img/6.1\ Friends.jpg) no-repeat center center/cover;
+    height: 40rem;
+    border: none;
+}
+#top-section-content {
+    width: 60%;
+    margin: auto;
+}
+#top-section-content h1{
+    font-size: 4em;
+    font-weight: 300;
+    text-align: center;
+    color: #fff;
+    padding-top: 10rem;
+}
+
+#top-section-content p{
+    text-align: center;
+    color: #fff;
+    font-size: 1.3em;
+    font-weight: 500;
+    padding-top: 2rem;
+}
