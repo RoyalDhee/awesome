@@ -69,19 +69,24 @@ ul li {
 
 .main-container{
     background: url(../img/6.1\ Friends.jpg) no-repeat center center/cover;
-    height: 40rem;
+    height: 740px;
     border: none;
+    
 }
 #top-section-content {
     width: 60%;
     margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 #top-section-content h1{
     font-size: 4em;
     font-weight: 300;
     text-align: center;
     color: #fff;
-    padding-top: 10rem;
+    margin-top: 0;
+    padding-top: 100px;
+    margin-bottom: 10px;
 }
 
 #top-section-content p{
@@ -89,5 +94,4 @@ ul li {
     color: #fff;
     font-size: 1.3em;
     font-weight: 500;
-    padding-top: 2rem;
 }
