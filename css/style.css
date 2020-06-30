@@ -70,7 +70,7 @@ ul li {
 
 .main-container{
     background: url(../img/6.1\ Friends.jpg) no-repeat center center/cover;
-    height: 740px;
+    height: 800px;
     border: none;
     
 }
@@ -97,3 +97,34 @@ ul li {
     font-weight: 500;
 }
 
+.play {
+    display: block;
+    margin: 70px auto 90px auto;
+}
+
+.cta {
+    width: 70%;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+}
+
+.cta p{
+    margin: 50px;
+    font-size: 0.9rem;
+}
+
+.cta input{
+    margin: 0;
+    height: 30px;
+    width: 40%;
+    border: none;
+    padding-right: 10px;
+    font-size: 15px;
+}
+
+.cta button{
+    margin: 0;
+    height: 30px;
+    width: 40%;
+}
