@@ -68,7 +68,7 @@ ul li {
     margin-top: 20px;
 }
 
-.main-container{
+#top-section-main{
     background: url(../img/6.1\ Friends.jpg) no-repeat center center/cover;
     height: 700px;
     margin-bottom: 0;
@@ -142,5 +142,9 @@ ul li {
 
 .cta button:hover{
     background: #6dc85a; 
+    color: #ffffff;
+}
+
+.grid h5{
     color: #ffffff;
 }
