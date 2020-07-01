@@ -154,12 +154,18 @@ ul li {
     text-align: center;
     font-weight: 200;
     margin: auto;
-    width: 70%;
-    padding-top: 4rem;
+    width: 65%;
     line-height: 3rem;
 }
 
 .green{
     background: #6dc85a;
     color: #ffffff;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.grid-items{
+    display: grid;
+    width: 70%;
 }
