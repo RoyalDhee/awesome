@@ -6,7 +6,15 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background: #000000;
+    background: #ffffff;
+}
+
+p{
+    color: #5d6660;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 .btn-green{
@@ -37,6 +45,7 @@ header{
 
 .col-3{
     width: 33%;
+    float: left;
 }
 
 .nav-items{
@@ -165,7 +174,30 @@ ul li {
     border-radius: 5px;
 }
 
-.grid-items{
-    display: grid;
-    width: 70%;
+.grid-items {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background: #ffffff;
+}
+
+.grid-items .col-3 {
+    width: 30%;
+    padding: 10px;
+}
+
+
+
+.grid-items .col-3 img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.grid-contents .col-3 p{
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+}
+
+.grid-contents .col-3 h3{
+    padding-bottom: 20px;
 }
