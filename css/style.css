@@ -201,3 +201,13 @@ ul li {
     margin: 10px;
 }
 
+#apple-section-container{
+    padding-top: 60px;
+    width: 100%;
+    background: #f6f8fa;
+}
+
+.apple-section{
+    margin: auto;
+    width: 80%;
+}
