@@ -178,7 +178,7 @@ ul li {
     width: 80%;
     margin: auto;
     text-align: center;
-    background: #ffffff;
+    padding-top: 100px;
 }
 
 .grid-items .col-3 {
@@ -186,18 +186,18 @@ ul li {
     padding: 10px;
 }
 
-
-
 .grid-items .col-3 img{
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
-.grid-contents .col-3 p{
+.grid-items .col-3 p{
     font-size: 0.9rem;
     letter-spacing: 1px;
+    margin: 10px;
 }
 
-.grid-contents .col-3 h3{
-    padding-bottom: 20px;
+.grid-items .col-3 h3{
+    margin: 10px;
 }
+
