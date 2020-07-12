@@ -202,12 +202,27 @@ ul li {
 }
 
 #apple-section-container{
-    padding-top: 60px;
+    /* padding-top: 10rem; */
     width: 100%;
-    background: #f6f8fa;
+    background: red;
+    height:750px;
+    margin-top: 28rem;
 }
 
 .apple-section{
     margin: auto;
     width: 80%;
+}
+
+.apple-section .col-2{
+    padding-top: 3rem;
+}
+
+.apple-section .col-2 img{
+    float: left;
+}
+
+.apple-section .col-2 h3
+.apple-section .col-2 p {
+    text-align: center;
 }
