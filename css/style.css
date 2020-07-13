@@ -205,13 +205,13 @@ ul li {
     /* padding-top: 10rem; */
     width: 100%;
     background: red;
-    height:750px;
     margin-top: 28rem;
 }
 
 .apple-section{
     margin: auto;
     width: 80%;
+    overflow: auto;
 }
 
 .apple-section .col-2{
