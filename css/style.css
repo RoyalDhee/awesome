@@ -221,15 +221,43 @@ ul li {
     
 }
 
+.apple-img{
+    width: 100%;
+}
+
 .text-style {
-    padding-top: 200px;
-    padding-left: 100px;
+    padding-top: 300px;
+    margin-left: 50px;
 }
 
 .apple-heading{
     width: 70%;
     margin: auto;
     font-weight: 100;
-    line-height: 2rem;
+    line-height: 3rem;
 
+}
+
+.apple-title{
+    width: 70%;
+    margin: auto;
+    font-weight: 100;
+    line-height: 1.5rem;
+    padding-top: 15px;
+}
+
+#ipad-section-container{
+    width: 100%;
+    background: blue;
+    clear: both;
+}
+
+.ipad-section{
+    margin: auto;
+    width: 80%;
+    overflow: auto;
+}
+
+.col-1{
+    float: left;
 }
