@@ -235,7 +235,6 @@ ul li {
     margin: auto;
     font-weight: 100;
     line-height: 3rem;
-
 }
 
 .apple-title{
@@ -250,6 +249,7 @@ ul li {
     width: 100%;
     background: blue;
     clear: both;
+    padding-top: 60px;
 }
 
 .ipad-section{
@@ -260,4 +260,10 @@ ul li {
 
 .col-1{
     float: left;
+    width: 48%;
 }
+
+.text-style1{
+    padding-top: 20px;
+}
+
