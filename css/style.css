@@ -293,3 +293,15 @@ ul li {
     font-size: 20px;
     margin-top: 20px;
 }
+
+.signup-container{
+    width: 70%;
+    height: 300px;
+    margin: auto;
+}
+
+.hear{
+    float: left;
+    width: 40%;
+}
+
