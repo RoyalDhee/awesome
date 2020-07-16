@@ -295,13 +295,26 @@ ul li {
 }
 
 .signup-container{
-    width: 70%;
+    width: 80%;
     height: 300px;
     margin: auto;
+    /* padding-top: 20px; */
 }
 
 .hear{
     float: left;
-    width: 40%;
+    width: 50%;
+    margin: 100px 0 0 100px;
 }
 
+.hear-title{
+    margin: 0 70px;
+    line-height: 1.5;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.hear p {
+    padding: 20px 10px 10px 0;
+    margin: 0 75px;
+}
