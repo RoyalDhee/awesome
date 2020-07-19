@@ -334,22 +334,27 @@ ul li {
 
 .button{
     display: block;
-    width: 80%;
+    width: 90%;
     margin: auto;
     padding: 10px;
     margin-bottom: 20px;
+    border: none;
 }
 
-.btn-green{
-    width: 80%;
+.form .btn-green{
     text-decoration: none;
-    margin: auto;
-    text-align: center;
+    width: 90%;
     padding: 10px;
-    margin-bottom: 20px;
+    margin-top: 20px opx;
+    margin: 0;
+    text-align: center;
 }
 
 .form p{
     color: #ffffff;
-    padding: 20px;
+    padding: 10px;
+    width: 90%;
+    margin: auto;
+    font-size: 12px;
+    padding: 10px 0px;
 }
