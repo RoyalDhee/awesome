@@ -318,3 +318,38 @@ ul li {
     padding: 20px 10px 10px 0;
     margin: 0 75px;
 }
+
+.form{
+    background: red;
+    float: right;
+    width: 40%;
+    height: 350px;
+    margin-top: 30px;
+}
+
+.sign-title{
+    margin: 20px 0;
+    text-align: center;
+}
+
+.button{
+    display: block;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.btn-green{
+    width: 80%;
+    text-decoration: none;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.form p{
+    color: #ffffff;
+    padding: 20px;
+}
