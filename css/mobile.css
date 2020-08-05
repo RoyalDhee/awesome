@@ -51,7 +51,7 @@ header{
 }
 
 .grid{
-        padding-top: 50px;
+        padding-top: 30px;
 }
 
 .grid-header{
@@ -60,3 +60,14 @@ header{
         line-height: 1.5;
 }
 
+.grid-items{
+        padding-top: 30px;
+}
+.grid-items .col-3{
+        width: 100%;
+        text-align: justify;
+}
+
+.grid-items h3{
+        text-align: center;
+}
