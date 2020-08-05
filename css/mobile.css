@@ -42,9 +42,21 @@ header{
 .cta input{
    display: block;     
    width: 100%;
+   border: none;
    margin-bottom: 10px;
 }
 
 .cta button{
         width: 100%;
 }
+
+.grid{
+        padding-top: 50px;
+}
+
+.grid-header{
+        width: 90%;
+        font-weight: 100;
+        line-height: 1.5;
+}
+
