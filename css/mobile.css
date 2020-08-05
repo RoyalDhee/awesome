@@ -5,8 +5,10 @@ header{
         flex: none;
 
 }
-.logo{
+.col-3 .logo{
         display: block;
+        margin: auto;
+
 }
 
 .col-3 ul{
@@ -14,11 +16,35 @@ header{
         display: block;
 }
 
-.col-3 .btn-green{
-        display: block;
-        flex-wrap: none;
+#top-section-content{
+        width: 95%;
+
 }
 
 #top-section-content h1{
-        font-size: 1.5em;
+        font-size: 2.6rem ;
+        padding-top: 50px;
+}
+
+#top-section-content p{
+        font-size: 1rem;
+        margin-bottom: 5px;
+}
+
+.play{
+        margin: 30px auto 50px auto;
+}
+
+.cta {
+        width: 70%;
+}
+
+.cta input{
+   display: block;     
+   width: 100%;
+   margin-bottom: 10px;
+}
+
+.cta button{
+        width: 100%;
 }
