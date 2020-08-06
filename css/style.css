@@ -341,11 +341,12 @@ ul li {
 }
 
 .form .btn-green{
+    display: block;
     text-decoration: none;
     width: 90%;
     padding: 10px;
     margin-top: 20px opx;
-    margin: 0;
+    margin: auto;
     text-align: center;
 }
 
