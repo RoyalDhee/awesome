@@ -1,3 +1,9 @@
+*{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+}
+
 header{
         height: 12rem;
 }
@@ -70,4 +76,17 @@ header{
 
 .grid-items h3{
         text-align: center;
+}
+
+.apple-section .col-2{
+        float: none;
+        width: 100%;
+}
+
+.apple-heading{
+        width: 100%;
+}
+
+.text-style{
+        width: 90%;
 }
