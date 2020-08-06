@@ -100,3 +100,9 @@ header{
         margin: 0;
         padding-bottom: 0.9rem;
 }
+
+#ipad-style h1{
+        padding-top: 30px;
+        margin-left: 0;
+
+}
