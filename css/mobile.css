@@ -106,3 +106,21 @@ header{
         margin-left: 0;
 
 }
+
+.what-section{
+        height: 250px;
+}
+.what-content{
+        width: 90%;
+}
+.what-heading{
+        font-size: 2rem;
+        font-weight: 500;
+        padding-top: 50px;
+        margin-bottom: 25px;
+}
+
+.what-paragraph{
+        font-size: 1rem;
+        padding-bottom: 70px;
+}
