@@ -4,22 +4,34 @@
         padding: 0;
 }
 
+
 header{
-        height: 12rem;
+        height: 13rem;
 }
 #header-container{
         flex: none;
 
 }
+
 .col-3 .logo{
         display: block;
-        margin: auto;
+        margin: 10px 0 20px 60px;
 
 }
 
 .col-3 ul{
         float: none;
         display: block;
+}
+
+ul li{
+        margin: auto;
+}
+.col-3 .btn-green{
+        display: block;
+        margin-top: 10rem;
+        font-size: 11px;
+
 }
 
 #top-section-content{
