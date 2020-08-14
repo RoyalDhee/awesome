@@ -60,11 +60,12 @@ header {
     content: '';
     position: absolute;
     z-index: 1;
-    top: 10px;
+    top: -10px;
     height: 2px;
-    background: #fff;
     width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    background: inherit;
+}
+
+.menu-wrap .hamburger > div::after{
+    top: 10px;
 }
