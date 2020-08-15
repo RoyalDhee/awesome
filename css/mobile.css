@@ -19,6 +19,15 @@ header{
 
 }
 
+.logo-new{
+        display: flex;
+}
+
+.logo-new .logo-mobile{
+        margin-left: 70px;
+        margin-top: 15px;
+}
+
 .col-3 ul{
         float: none;
         display: block;
@@ -44,7 +53,7 @@ ul li{
 
 #top-section-content h1{
         font-size: 2.6rem ;
-        padding-top: 50px;
+        padding-top: 90px;
 }
 
 #top-section-content p{
