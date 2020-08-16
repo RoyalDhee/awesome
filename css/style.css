@@ -33,6 +33,9 @@ header{
 .menu-wrap{
     display: none;
 }
+.logo-new{
+    display: none;
+}
 
 #header-container{
     display: flex;
