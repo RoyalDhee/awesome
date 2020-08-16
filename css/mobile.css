@@ -88,7 +88,8 @@ ul li{
 }
 
 .grid-header{
-        width: 90%;
+        width: 80%;
+        font-size: 20px;
         font-weight: 100;
         line-height: 1.5;
         text-align: justify;
